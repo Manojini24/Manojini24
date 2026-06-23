@@ -13,11 +13,11 @@
 ```javascript
 const manojini = {
   name: "Ganeshaperumal Manojini",
-  location: "Sri Lanka",
+  location: "SriLanka",
   degree: "BICT (Hons) — University of Vavuniya",
   role: "Full-Stack Developer",
   stack: ["React", "Node.js", "PHP", "C#/.NET", "MySQL", "MongoDB", "REST", "GraphQL"],
-  currentlyLearning: ["Advanced React patterns", "Cloud deployment", "GraphQL APIs"],
+  currentlyLearning: ["Advanced React patterns", "GraphQL APIs"],
   interests: ["Problem Solving", "UI/UX with Figma", "Open Source"],
   motto: () => "Code with purpose, build with care."
 };
